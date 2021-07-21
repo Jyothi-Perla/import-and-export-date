@@ -1,0 +1,15 @@
+{
+  "name": "todays-day",
+  "version": "1.0.0",
+  "description": "Given an `app.js` file, write an API with path `/` using express JS that sends today's date as a response in `DD-MM-YYYY` format.",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
